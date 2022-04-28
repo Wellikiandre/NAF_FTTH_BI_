@@ -17,6 +17,9 @@ https://app.powerbi.com/reportEmbed?reportId=e4887f97-23be-4fba-a7ef-cd852c265f5
 <p align="center">Analise do NAF da planta de clientes</p>
 
 <div align="center">
-  <img src="https://i.ibb.co/YjrZh9j/naf.jpg" alt="demo" height="500">
+  <img src="https://i.ibb.co/vcjrcvY/Exe1.png" alt="demo" height="500">
+</div>
+<div align="center">
+  <img src="https://i.ibb.co/3c3Gjqv/Exe2.png" alt="demo" height="500">
 </div>
 <hr />
